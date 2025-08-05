@@ -1,0 +1,11 @@
+/workspace/src/main/java/com/todo/dto/TaskRequest.java
+/workspace/src/main/java/com/todo/TodoApplication.java
+/workspace/src/main/java/com/todo/repository/TaskRepository.java
+/workspace/src/main/java/com/todo/controller/AuthController.java
+/workspace/src/main/java/com/todo/controller/TaskController.java
+/workspace/src/main/java/com/todo/service/TaskService.java
+/workspace/src/main/java/com/todo/security/JwtTokenProvider.java
+/workspace/src/main/java/com/todo/security/SecurityConfig.java
+/workspace/src/main/java/com/todo/dto/TaskResponse.java
+/workspace/src/main/java/com/todo/security/JwtAuthenticationFilter.java
+/workspace/src/main/java/com/todo/model/Task.java

@@ -1,0 +1,12 @@
+com/todo/repository/TaskRepository.class
+com/todo/security/SecurityConfig.class
+com/todo/security/JwtTokenProvider.class
+com/todo/TodoApplication.class
+com/todo/security/JwtAuthenticationFilter.class
+com/todo/dto/TaskResponse.class
+com/todo/service/TaskService.class
+com/todo/controller/AuthController$LoginRequest.class
+com/todo/controller/TaskController.class
+com/todo/controller/AuthController.class
+com/todo/dto/TaskRequest.class
+com/todo/model/Task.class
